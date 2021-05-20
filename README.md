@@ -1,9 +1,9 @@
-<h1 align="center">:page_with_curl: Catalogo Jogos</h1>
+<h1 align="center">:page_with_curl: Catálogo Jogos</h1>
 
 ## :computer: Projeto
 
-Repositório de uma WebAPI para simular um catalogo de jogos, código fonte do projeto foi baseado no curso 
-[Criando um catálogo de jogos usando boas práticas de arquitetura com .NET](https://digitalinnovation.one/bootcamps/take-blip-fullstack-developer?utm_source=yt-bc-take-blip&utm_medium=organic&utm_campaign=take-blip#).
+Repositório de uma WebAPI para simular um catálogo de jogos, código fonte do projeto foi baseado no curso 
+[Criando um catálogo de jogos usando boas práticas de arquitetura com .NET](https://digitalinnovation.one/).
 
 ## :wrench: Recursos Utilizados
 
